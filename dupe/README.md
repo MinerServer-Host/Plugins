@@ -29,6 +29,6 @@ blacklisted-items:
 Dupes the item you are holding.
 Usable by everyone.
 ### /toggledupeable
-Makes the item you are holding dupeable or undupeable. If an item is undupeable it can only be made dupeable by the person that made it undupeable. This command can by used by everyone.
+Makes the item you are holding dupeable or undupeable. If an item is undupeable it can only be made dupeable by the person that made it undupeable (undupeable items can be duped by players with OP). This command can by used by everyone.
 ### /worlddupe
 Makes /dupe not work in the current world you are in. Only players with OP can use this.
